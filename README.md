@@ -1,3 +1,5 @@
 # VVdemo
-learning
+
+Reading
 memorise
+Repeat
