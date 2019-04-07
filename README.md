@@ -1,2 +1,3 @@
 # VVdemo
 learning
+memorise
